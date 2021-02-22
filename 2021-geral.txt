@@ -1,3 +1,6 @@
+Primeiro passo simples
+
+===
 SBJ
 ===
 
@@ -11,8 +14,7 @@ SBJ
     curso extra
         ok - apresentacao
 
-
-
+========
 concluir
 ========
 
@@ -30,19 +32,25 @@ concluir
 
     js revisao b7web
 
+    letura indicada por: rogerio, ricardo
 
 
-treinamento
+
+===========
+treinamento / continuar
 ===========
 
+    excel
     iterm
     figma
     ruby
-    svg
-    hospedagem free
+    svg animacao (rogério)
+    hospedagem free (aws, heroku, github pages, )
     gitpages
+    udemy geral
 
 
+=======
 missoes
 =======
 
@@ -60,3 +68,18 @@ missoes
     waves, previsao next weekend
 
     Gu, Ka
+
+    biografia (primeiro passo simples)
+
+
+=====
+geral
+=====
+    luminaria
+    interruptor paralelo corredor
+    oculos maior
+    lubrificar xt225
+    heman parte hidraulica
+    quadro semana vidro + caneta
+    durex capacete
+    butanclan status, bike, bowl, biblioteca, jiu, cine etc
