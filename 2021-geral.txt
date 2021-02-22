@@ -1,3 +1,4 @@
+Gu, Ka
 Primeiro passo simples
 
 ===
@@ -23,17 +24,11 @@ concluir
         formulario de contato
         animacoes svg
         host
-
     zeidler
-
     git
-
     jekyll
-
     js revisao b7web
-
     letura indicada por: rogerio, ricardo
-
 
 
 ===========
@@ -49,7 +44,6 @@ treinamento / continuar
     gitpages
     udemy geral
 
-
 =======
 missoes
 =======
@@ -58,15 +52,10 @@ missoes
         gas
         recal
         2a revisao
-
     xt225, gas
-    
     excel crosser, rafael
-
     leandro, delivery
-
     waves, previsao next weekend
-
     Gu, Ka
 
     biografia (primeiro passo simples)
@@ -83,7 +72,6 @@ geral
     quadro semana vidro + caneta
     durex capacete
     butanclan status, bike, bowl, biblioteca, jiu, cine etc
-
 
 === === === === === === 
 pbcopy < /dev/null
