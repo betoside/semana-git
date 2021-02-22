@@ -1,0 +1,62 @@
+SBJ
+===
+
+    trello
+    estagio cultural
+    esporte
+    eletrica, instalador
+    eletrica, linha branca
+        ? aula sobre o simulador e como calcular sobre a iluminacao
+        baixar o html, js, simular local
+    curso extra
+        ok - apresentacao
+
+
+
+concluir
+========
+
+    legal code
+        menu responsivo
+        formulario de contato
+        animacoes svg
+        host
+
+    zeidler
+
+    git
+
+    jekyll
+
+    js revisao b7web
+
+
+
+treinamento
+===========
+
+    iterm
+    figma
+    ruby
+    svg
+    hospedagem free
+    gitpages
+
+
+missoes
+=======
+
+    crosser 
+        gas
+        recal
+        2a revisao
+
+    xt225, gas
+    
+    excel crosser, rafael
+
+    leandro, delivery
+
+    waves, previsao next weekend
+
+    Gu, Ka
