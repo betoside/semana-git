@@ -1,65 +1,82 @@
-Gu, Ka
+
 Primeiro passo simples
+Gu, Ka sempre
 
-===
-SBJ
-===
 
-    trello
-    estagio cultural
-    esporte
-    eletrica, instalador
-    eletrica, linha branca
-        ? aula sobre o simulador e como calcular sobre a iluminacao
-        baixar o html, js, simular local
-    curso extra
-        ok - apresentacao
+
 
 ========
-concluir
+concluir / work im progress / 6 the number of the work
 ========
+
+    SBJ (calendario da semana)
+        eletrica linha branca
+            missao 1: 
+
+        curso extra
+            missao 1: 
+
+        estagio cultural
+            missao 1: 
+
+    zeidler
+
+        - animar
+        - idiomas
+            PT
+            EN
+            FR
+        - fale conosco
+            email: contact@zeidlercapital.com
+            php mail()
+            pagina de resposta
+        - publicar
 
     legal code
         menu responsivo
         formulario de contato
         animacoes svg
         host
-    zeidler
-    git
-    jekyll
+
     js revisao b7web
     letura indicada por: rogerio, ricardo
 
+    jiu jitsu 
+        CEU Prof Adriano
+        Adriano Bocão
+        Kimono
+
+    rm -rf .git
+    
+===
+SBJ semana 01/03 a 05/03
+===
+    eletrica, instalador
+        No curso online de Consumo Consciente de Energia, sugestão
+        de aula sobre o simulador e como calcular sobre a iluminacao 
+        do cômodo (lux, lumen).
+
+        Baixar o html, js, simular local
 
 ===========
 treinamento / continuar
 ===========
-
     excel
     iterm
     figma
     ruby
     svg animacao (rogério)
-    hospedagem free (aws, heroku, github pages, )
+    hospedagem free netlify (aws, heroku, github pages)
     gitpages
     udemy geral
+    cpanel
+    php
 
 =======
 missoes
 =======
-
-    crosser 
-        gas
-        recal
-        2a revisao
-    xt225, gas
     excel crosser, rafael
     leandro, delivery
-    waves, previsao next weekend
-    Gu, Ka
-
-    biografia (primeiro passo simples)
-
 
 =====
 geral
@@ -67,15 +84,14 @@ geral
     luminaria
     interruptor paralelo corredor
     oculos maior
-    lubrificar xt225
-    heman parte hidraulica
+    heman 
+        parte hidraulica
+        lubrificar xt225
     quadro semana vidro + caneta
     durex capacete
-    butanclan status, bike, bowl, biblioteca, jiu, cine etc
 
 === === === === === === 
 pbcopy < /dev/null
-
 
 Estratégia
 manutençao da Estratégia
