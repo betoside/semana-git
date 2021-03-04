@@ -8,51 +8,31 @@ concluir / work im progress / 6 the number of the work
 ========
 
     Leitura 
-        - rogerio
         ricardo
 
     legal code
-        menu responsivo
+        - animacoes svg
+        - menu responsivo
+            - 768 tablet
+            - 425 celular
         formulario de contato
-        animacoes svg
+            - validacao
+            verificar host mail()
         host
+            testar login
+            cpanel
+            ftp
 
-    - Buscar manual da moto, avisar André
     CEF, verificar o depósito
-    - Zamora, nova guia de recolhimento
     Impressora, tinta
     Câmera da garagem
     Colméia, concluir o doc, soma e média dos pontos, enviar para Catarina
 
     zeidler
-
-        ok - 1. retirar links da rede social
+        1. fazer solicitacoes do Caio 
         2. frase no banner "Rumo ao Topo"
         3. encaixar o video
         4. ajustar uma img
-        ok - 5. fazer o alias: contact@zeidlercapital.com -> cz@
-        ok - 6. linkedin
-
-        ok - Audio 01
-        ============
-        HOW IT WORKS
-        ============
-        corrigido nas 2 versoes (pt, en, fr)
-        adicionado o titulo no lugar certo
-        menu levando para o ponto certo
-
-
-        ok - Audio 02
-        ============
-        IMOBILIÁRIO
-        ============
-        ajustado com titulo
-        reposicionado perto da parte com a image do predio
-        agora eh so receber o texto
-
-
-
-
 
     js revisao b7web
 
