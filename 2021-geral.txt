@@ -3,34 +3,13 @@ Primeiro passo simples
 Gu, Ka sempre
 
 
-
-
 ========
 concluir / work im progress / 6 the number of the work
 ========
 
-    SBJ (calendario da semana)
-        eletrica linha branca
-            missao 1: 
-
-        curso extra
-            missao 1: 
-
-        estagio cultural
-            missao 1: 
-
-    zeidler
-
-        - animar
-        - idiomas
-            PT
-            EN
-            FR
-        - fale conosco
-            email: contact@zeidlercapital.com
-            php mail()
-            pagina de resposta
-        - publicar
+    Leitura 
+        - rogerio
+        ricardo
 
     legal code
         menu responsivo
@@ -38,8 +17,44 @@ concluir / work im progress / 6 the number of the work
         animacoes svg
         host
 
+    - Buscar manual da moto, avisar André
+    CEF, verificar o depósito
+    - Zamora, nova guia de recolhimento
+    Impressora, tinta
+    Câmera da garagem
+    Colméia, concluir o doc, soma e média dos pontos, enviar para Catarina
+
+    zeidler
+
+        ok - 1. retirar links da rede social
+        2. frase no banner "Rumo ao Topo"
+        3. encaixar o video
+        4. ajustar uma img
+        ok - 5. fazer o alias: contact@zeidlercapital.com -> cz@
+        ok - 6. linkedin
+
+        ok - Audio 01
+        ============
+        HOW IT WORKS
+        ============
+        corrigido nas 2 versoes (pt, en, fr)
+        adicionado o titulo no lugar certo
+        menu levando para o ponto certo
+
+
+        ok - Audio 02
+        ============
+        IMOBILIÁRIO
+        ============
+        ajustado com titulo
+        reposicionado perto da parte com a image do predio
+        agora eh so receber o texto
+
+
+
+
+
     js revisao b7web
-    letura indicada por: rogerio, ricardo
 
     jiu jitsu 
         CEU Prof Adriano
@@ -47,6 +62,7 @@ concluir / work im progress / 6 the number of the work
         Kimono
 
     rm -rf .git
+    deletar arquivos ocultos
     
 ===
 SBJ semana 01/03 a 05/03
@@ -58,6 +74,18 @@ SBJ semana 01/03 a 05/03
 
         Baixar o html, js, simular local
 
+
+    SBJ (calendario da semana)
+        eletrica linha branca
+            missao 1: 
+
+        curso extra
+            missao 1: 
+
+        estagio cultural
+            missao 1: 
+
+
 ===========
 treinamento / continuar
 ===========
@@ -66,11 +94,12 @@ treinamento / continuar
     figma
     ruby
     svg animacao (rogério)
-    hospedagem free netlify (aws, heroku, github pages)
+    hospedagem free netlify (aws, heroku, github pages, infinity free)
     gitpages
     udemy geral
     cpanel
     php
+    reCaptcha
 
 =======
 missoes
