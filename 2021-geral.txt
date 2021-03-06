@@ -7,32 +7,31 @@ Gu, Ka sempre
 concluir / work im progress / 6 the number of the work
 ========
 
-    Leitura 
-        ricardo
-
-    legal code
-        - animacoes svg
-        - menu responsivo
-            - 768 tablet
-            - 425 celular
-        formulario de contato
-            - validacao
-            verificar host mail()
-        host
-            testar login
-            cpanel
-            ftp
-
-    CEF, verificar o depósito
-    Impressora, tinta
-    Câmera da garagem
-    Colméia, concluir o doc, soma e média dos pontos, enviar para Catarina
+    Loiane Groner
 
     zeidler
-        1. fazer solicitacoes do Caio 
+        - 1. fazer solicitacoes do Caio 
         2. frase no banner "Rumo ao Topo"
         3. encaixar o video
         4. ajustar uma img
+
+    - Leitura 
+        - ricardo
+
+    legal code
+        resolver a questao do ".com.br" para ".ai"
+        formulario de contato
+            verificar host mail()
+        - host
+            - testar login
+            - cpanel
+            - ftp
+
+    - CEF, verificar o depósito
+    Impressora, tinta
+    Câmera da garagem
+    Interruptor paralelo no corredor
+    Colméia, concluir o doc, soma e média dos pontos, enviar para Catarina
 
     js revisao b7web
 
@@ -101,6 +100,7 @@ geral
 
 === === === === === === 
 pbcopy < /dev/null
+https://gifted-lalande-79c71b.netlify.app/
 
 Estratégia
 manutençao da Estratégia
