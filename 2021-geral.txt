@@ -1,44 +1,33 @@
+15/03 seg a 21/03 dom
 
-Primeiro passo simples
-Gu, Ka sempre
-
+Gu e Ka sempre. Primeiro passo simples.
 
 ========
 concluir / work im progress / 6 the number of the work
 ========
 
-    Loiane Groner
+    - ReviewJs-Pizzas | compra de pizza
+    - Loiane Groner - angular, organizar no trelho
+    - Curso Feliz de Html CSS
 
     zeidler
-        - 1. fazer solicitacoes do Caio 
         2. frase no banner "Rumo ao Topo"
-        3. encaixar o video
         4. ajustar uma img
-
-    - Leitura 
-        - ricardo
+        - 3. encaixar o video
+        - 1. fazer solicitacoes do Caio 
 
     legal code
-        resolver a questao do ".com.br" para ".ai"
-        formulario de contato
-            verificar host mail()
+        formulario de contato, usar phpmailer().
+        - resolver a questao do ".com.br" para ".ai"
         - host
             - testar login
             - cpanel
             - ftp
 
-    - CEF, verificar o depósito
-    Impressora, tinta
-    Câmera da garagem
-    Interruptor paralelo no corredor
-    Colméia, concluir o doc, soma e média dos pontos, enviar para Catarina
+    CEF, 
+        1- informar kate sobre o depósito de fevereiro, a CEF vai creditar a conta
+        2- depositar parcela de Março
 
-    js revisao b7web
-
-    jiu jitsu 
-        CEU Prof Adriano
-        Adriano Bocão
-        Kimono
 
     rm -rf .git
     deletar arquivos ocultos
@@ -55,6 +44,7 @@ SBJ semana 01/03 a 05/03
 
 
     SBJ (calendario da semana)
+
         eletrica linha branca
             missao 1: 
 
@@ -68,17 +58,17 @@ SBJ semana 01/03 a 05/03
 ===========
 treinamento / continuar
 ===========
-    excel
-    iterm
-    figma
-    ruby
-    svg animacao (rogério)
-    hospedagem free netlify (aws, heroku, github pages, infinity free)
-    gitpages
     udemy geral
     cpanel
     php
     reCaptcha
+    ruby
+    excel
+    iterm
+    figma
+    svg animacao (rogério)
+    hospedagem free netlify (aws, heroku, github pages, infinity free)
+    gitpages
 
 =======
 missoes
@@ -89,6 +79,7 @@ missoes
 =====
 geral
 =====
+    Câmera da garagem
     luminaria
     interruptor paralelo corredor
     oculos maior
@@ -100,11 +91,9 @@ geral
 
 === === === === === === 
 pbcopy < /dev/null
-https://gifted-lalande-79c71b.netlify.app/
 
 Estratégia
 manutençao da Estratégia
-
 
 é possivel fazer funcionar
 1440 meu macbook
