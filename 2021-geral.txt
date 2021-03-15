@@ -6,6 +6,15 @@ Gu e Ka sempre. Primeiro passo simples.
 concluir / work im progress / 6 the number of the work
 ========
 
+    Relatorio Saude: Aids
+    
+    Pratos: Casas André Luiz, amigos, Teodoro, ols
+        Chimbal
+        Conduçao + pedestal
+        Ataque + pedestal
+        cowbell
+        usar a pele de treino
+
     - ReviewJs-Pizzas | compra de pizza
     - Loiane Groner - angular, organizar no trelho
     - Curso Feliz de Html CSS
@@ -28,31 +37,24 @@ concluir / work im progress / 6 the number of the work
         1- informar kate sobre o depósito de fevereiro, a CEF vai creditar a conta
         2- depositar parcela de Março
 
+    SBJ, 15/03 seg a 21/03 dom
+        eletrica, instalador
+            Baixar o html, js, simular local
+
+        SBJ (calendario da semana)
+            eletrica linha branca
+                missao 1: 
+            curso extra
+                missao 1: 
+            estagio cultural
+                missao 1: 
+                escolher / assistir conteudo da primeira semana
+                anexar certificado de conclusao da segunda semana
+                iniciar terceira semana
+
 
     rm -rf .git
     deletar arquivos ocultos
-    
-===
-SBJ semana 01/03 a 05/03
-===
-    eletrica, instalador
-        No curso online de Consumo Consciente de Energia, sugestão
-        de aula sobre o simulador e como calcular sobre a iluminacao 
-        do cômodo (lux, lumen).
-
-        Baixar o html, js, simular local
-
-
-    SBJ (calendario da semana)
-
-        eletrica linha branca
-            missao 1: 
-
-        curso extra
-            missao 1: 
-
-        estagio cultural
-            missao 1: 
 
 
 ===========
@@ -79,6 +81,8 @@ missoes
 =====
 geral
 =====
+    Fotos da garagem para Rogério (cimento)
+    Torneira no quintal
     Câmera da garagem
     luminaria
     interruptor paralelo corredor
@@ -88,6 +92,7 @@ geral
         lubrificar xt225
     quadro semana vidro + caneta
     durex capacete
+    bicicletas, limpar, regular
 
 === === === === === === 
 pbcopy < /dev/null
