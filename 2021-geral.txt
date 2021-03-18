@@ -7,6 +7,39 @@ concluir / work im progress / 6 the number of the work
 ========
 
     Relatorio Saude: Aids
+        instalar inDesign
+
+
+    legal code
+        tirar redes sociais
+        contato@legalcode.ai
+        teste@legalcode.ai
+        formulario de contato, usar phpmailer().
+        - resolver a questao do ".com.br" para ".ai"
+        - host
+            - testar login
+            - cpanel
+            - ftp
+
+    - Projeto: Menu de Navegação
+
+    Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
+
+    #13: Intervalos (1/2)
+    mod3-13-Intervalos (1/2)
+
+    #15: Template Strings
+    mod3-15-Template Strings
+
+    #16: Descontruindo Objetos (1/2)
+    mod3-16-Descontruindo Objetos (1/2)
+
+    #18: Descontruindo Arrays
+    mod3-18-Descontruindo Arrays
+
+    #19: Arrow Functions
+    mod3-19-Arrow Functions
+
     
     Pratos: Casas André Luiz, amigos, Teodoro, ols
         Chimbal
@@ -25,13 +58,6 @@ concluir / work im progress / 6 the number of the work
         - 3. encaixar o video
         - 1. fazer solicitacoes do Caio 
 
-    legal code
-        formulario de contato, usar phpmailer().
-        - resolver a questao do ".com.br" para ".ai"
-        - host
-            - testar login
-            - cpanel
-            - ftp
 
     CEF, 
         1- informar kate sobre o depósito de fevereiro, a CEF vai creditar a conta
