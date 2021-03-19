@@ -6,23 +6,35 @@ Gu e Ka sempre. Primeiro passo simples.
 concluir / work im progress / 6 the number of the work
 ========
 
+    ===
     Relatorio Saude: Aids
         instalar inDesign
 
 
+    ===
     legal code
-        tirar redes sociais
-        contato@legalcode.ai
-        teste@legalcode.ai
+        ico fav
+        hostgator + github/any repository
         formulario de contato, usar phpmailer().
-        - resolver a questao do ".com.br" para ".ai"
-        - host
-            - testar login
-            - cpanel
-            - ftp
 
-    - Projeto: Menu de Navegação
 
+    ===
+    SBJ, 15/03 seg a 21/03 dom
+        eletrica, instalador
+            Baixar o html, js, simular local
+
+        SBJ (calendario da semana)
+            eletrica linha branca
+                missao 1: 
+            curso extra
+                missao 1: 
+            estagio cultural
+                missao 1: 
+                escolher / assistir conteudo da primeira semana
+                anexar certificado de conclusao da segunda semana
+                iniciar terceira semana
+
+    ===
     Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
 
     #13: Intervalos (1/2)
@@ -52,6 +64,8 @@ concluir / work im progress / 6 the number of the work
     - Loiane Groner - angular, organizar no trelho
     - Curso Feliz de Html CSS
 
+    
+    ===
     zeidler
         2. frase no banner "Rumo ao Topo"
         4. ajustar uma img
@@ -59,24 +73,10 @@ concluir / work im progress / 6 the number of the work
         - 1. fazer solicitacoes do Caio 
 
 
+    ===
     CEF, 
         1- informar kate sobre o depósito de fevereiro, a CEF vai creditar a conta
         2- depositar parcela de Março
-
-    SBJ, 15/03 seg a 21/03 dom
-        eletrica, instalador
-            Baixar o html, js, simular local
-
-        SBJ (calendario da semana)
-            eletrica linha branca
-                missao 1: 
-            curso extra
-                missao 1: 
-            estagio cultural
-                missao 1: 
-                escolher / assistir conteudo da primeira semana
-                anexar certificado de conclusao da segunda semana
-                iniciar terceira semana
 
 
     rm -rf .git
