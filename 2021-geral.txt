@@ -6,16 +6,43 @@ Gu e Ka sempre. Primeiro passo simples.
 concluir / work im progress / 6 the number of the work
 ========
 
-    ===
-    Relatorio Saude: Aids
-        instalar inDesign
-
 
     ===
     legal code
-        ico fav
+        - ico fav
+        - video 5, altura menor
+        - Marina, segue a frase que deve ser substituida+
+            Nossa tecnologia integra a leitura de documentos, cadastro, busca de dados e informações em diferentes fontes, geração de matriz de risco e o suporte na geração de documentos, com a supervisão dos profissionais da área do direito e de acordo com o conteúdo por estes fornecido_
+            A partir da triagem de demandas judiciais, apoiamos a operacionalização do plano de ação definido pelos advogados responsáveis e a gestão estratégia de toda a esteira do contencioso_
+
+
+        - [11:19, 24/03/2021] Marina Yoshie: corrigir o texto tb. - tirar a vírgula e colocar  " e a "
+        - [11:20, 24/03/2021] Marina Yoshie: e no final o underline
+
+    Marina, vou deixar aqui os comentários para ajustes amanhã no site conforme discussão do time aqui – para consolidação:
+    - Incluir política de privacidade/cookies na página inicial ao abrir o site
+    - Incluir email de contato ao final (contato@legalcode.ai – que deve cair na minha caixa de email leticia.malaga@legalcode.ai ) 
+    - Ajustar tamanho da tela e enquadramento de cada link (Processos/ Soluções...) quando clica está fora de enquadramento 
+    
+    OK - Suavizar a página Fale Conosco – este formulário branco não está legal diante do site todo escuro
+        no form...pode deixar fundo preto ao invés de branco
+
+    OK - Ajustar a marca no canto do site (está com a marca do Urbano Vitalino e não da LegalCode) – o que aconteceu?
+
+
+
         hostgator + github/any repository
         formulario de contato, usar phpmailer().
+
+    ===
+    B7 web
+    fullstack developer
+    34191.98191 01852.100005 05139.686603 1 85710000039700
+
+
+    ===
+    Relatorio Saude: Aids
+        instalar inDesign
 
 
     ===
@@ -36,21 +63,43 @@ concluir / work im progress / 6 the number of the work
 
     ===
     Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
+    
 
-    #13: Intervalos (1/2)
-    mod3-13-Intervalos (1/2)
+        #18: Descontruindo Arrays
+        mod3-18-DescontruindoArrays
 
-    #15: Template Strings
-    mod3-15-Template Strings
+        #19: Arrow Functions
+        mod3-19-ArrowFunctions
 
-    #16: Descontruindo Objetos (1/2)
-    mod3-16-Descontruindo Objetos (1/2)
+        #20: Operador Spread
+        mod3-20-Operador-Spread
 
-    #18: Descontruindo Arrays
-    mod3-18-Descontruindo Arrays
+        #21: Operador Rest
+        mod3-21-Operador-Rest
 
-    #19: Arrow Functions
-    mod3-19-Arrow Functions
+        #22: Includes Repeat
+        mod3-22-Includes-Repeat
+
+        #23: Objeto: Key, Values e Entries
+        mod3-19-ArrowFunctions
+
+        #24: String, padStart, padEnd
+        mod3-19-ArrowFunctions
+
+        #25: Promise
+        mod3-19-ArrowFunctions
+
+        #26: Ajax/Fetch
+        mod3-19-ArrowFunctions
+
+        #27: Async/Await
+        mod3-19-ArrowFunctions
+
+    
+    ===
+    O que sao, o que representam:
+        Equinocios
+        Souslticios
 
     
     Pratos: Casas André Luiz, amigos, Teodoro, ols
