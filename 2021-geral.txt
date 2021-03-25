@@ -6,41 +6,39 @@ Gu e Ka sempre. Primeiro passo simples.
 concluir / work im progress / 6 the number of the work
 ========
 
+
     ===
     legal code
-        - ico fav
-        - video 5, altura menor
-        - Marina, segue a frase que deve ser substituida+
-            Nossa tecnologia integra a leitura de documentos, cadastro, busca de dados e informações em diferentes fontes, geração de matriz de risco e o suporte na geração de documentos, com a supervisão dos profissionais da área do direito e de acordo com o conteúdo por estes fornecido_
-            A partir da triagem de demandas judiciais, apoiamos a operacionalização do plano de ação definido pelos advogados responsáveis e a gestão estratégia de toda a esteira do contencioso_
+        formulario
+        emails 
 
+        OK - 1) Na página inicial em Política de Privacidade, onde diz “...proporcionar uma óPtima experiência no site. Mudar para “ótima”
 
-        - [11:19, 24/03/2021] Marina Yoshie: corrigir o texto tb. - tirar a vírgula e colocar  " e a "
-        - [11:20, 24/03/2021] Marina Yoshie: e no final o underline
+        OK - 2) Essa ordem da barra de menu tem que mudar para: 
 
-        Marina, vou deixar aqui os comentários para ajustes amanhã no site conforme discussão do time aqui – para consolidação:
+            Sobre nós | 
+            Soluções | 
+            Processos. 
 
-            OK - Incluir política de privacidade/cookies na página inicial ao abrir o site
-            
-            OK - Incluir email de contato ao final (contato@legalcode.ai – que deve cair na minha caixa de email leticia.malaga@legalcode.ai ) 
-            
-            OK - Ajustar tamanho da tela e enquadramento de cada link (Processos/ Soluções...) quando clica está fora de enquadramento 
-            
-            OK - Suavizar a página Fale Conosco – este formulário branco não está legal diante do site todo escuro
-                no form...pode deixar fundo preto ao invés de branco
+        OK - 3) Substituir estratégia por estratégica
 
-            OK - Ajustar a marca no canto do site (está com a marca do Urbano Vitalino e não da LegalCode) – o que aconteceu?
-
-        OK - botao topo
+        OK - 4) video novo
 
 
     hostgator + github/any repository
     formulario de contato, usar phpmailer().
 
     ===
-    OK - B7 web
-        fullstack developer
-        34191.98191 01852.100005 05139.686603 1 85710000039700
+    B7 web
+
+        Módulo 1: Instruções Iniciais
+        #1: Boas vindas
+        #2: Como funciona a plataforma
+        #3: O que é Frontend, Backend, Mobile?
+        #4: O que vou precisar ter no meu PC?
+        #5: Grupo do Facebook
+        #6: Como pedir suporte?
+        #7: O que são os cursos DO ZERO AO PROFISSIONAL
 
 
     ===
