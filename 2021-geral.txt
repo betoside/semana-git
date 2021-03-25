@@ -6,7 +6,6 @@ Gu e Ka sempre. Primeiro passo simples.
 concluir / work im progress / 6 the number of the work
 ========
 
-
     ===
     legal code
         - ico fav
@@ -19,25 +18,29 @@ concluir / work im progress / 6 the number of the work
         - [11:19, 24/03/2021] Marina Yoshie: corrigir o texto tb. - tirar a vírgula e colocar  " e a "
         - [11:20, 24/03/2021] Marina Yoshie: e no final o underline
 
-    Marina, vou deixar aqui os comentários para ajustes amanhã no site conforme discussão do time aqui – para consolidação:
-    - Incluir política de privacidade/cookies na página inicial ao abrir o site
-    - Incluir email de contato ao final (contato@legalcode.ai – que deve cair na minha caixa de email leticia.malaga@legalcode.ai ) 
-    - Ajustar tamanho da tela e enquadramento de cada link (Processos/ Soluções...) quando clica está fora de enquadramento 
-    
-    OK - Suavizar a página Fale Conosco – este formulário branco não está legal diante do site todo escuro
-        no form...pode deixar fundo preto ao invés de branco
+        Marina, vou deixar aqui os comentários para ajustes amanhã no site conforme discussão do time aqui – para consolidação:
 
-    OK - Ajustar a marca no canto do site (está com a marca do Urbano Vitalino e não da LegalCode) – o que aconteceu?
+            OK - Incluir política de privacidade/cookies na página inicial ao abrir o site
+            
+            OK - Incluir email de contato ao final (contato@legalcode.ai – que deve cair na minha caixa de email leticia.malaga@legalcode.ai ) 
+            
+            OK - Ajustar tamanho da tela e enquadramento de cada link (Processos/ Soluções...) quando clica está fora de enquadramento 
+            
+            OK - Suavizar a página Fale Conosco – este formulário branco não está legal diante do site todo escuro
+                no form...pode deixar fundo preto ao invés de branco
+
+            OK - Ajustar a marca no canto do site (está com a marca do Urbano Vitalino e não da LegalCode) – o que aconteceu?
+
+        OK - botao topo
 
 
-
-        hostgator + github/any repository
-        formulario de contato, usar phpmailer().
+    hostgator + github/any repository
+    formulario de contato, usar phpmailer().
 
     ===
-    B7 web
-    fullstack developer
-    34191.98191 01852.100005 05139.686603 1 85710000039700
+    OK - B7 web
+        fullstack developer
+        34191.98191 01852.100005 05139.686603 1 85710000039700
 
 
     ===
@@ -125,7 +128,7 @@ concluir / work im progress / 6 the number of the work
     ===
     CEF, 
         1- informar kate sobre o depósito de fevereiro, a CEF vai creditar a conta
-        2- depositar parcela de Março
+        OK - 2- depositar parcela de Março
 
 
     rm -rf .git
