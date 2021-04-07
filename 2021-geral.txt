@@ -1,4 +1,4 @@
-15/03 seg a 21/03 dom
+04/04 seg a 11/04 dom
 
 Gu e Ka sempre. Primeiro passo simples.
 
@@ -8,43 +8,135 @@ concluir / work im progress / 6 the number of the work
 
 
     ===
-    legal code
-        formulario
-        emails 
+    zeidler
+        - 5. aplicar texto em "Como investir" 
+        - 6. Diversification
+        2. frase no banner "Rumo ao Topo"
+        4. ajustar uma img
+        - 3. encaixar o video
+        - 1. fazer solicitacoes do Caio 
 
-        OK - 1) Na página inicial em Política de Privacidade, onde diz “...proporcionar uma óPtima experiência no site. Mudar para “ótima”
+    ===
+    CEF, 
+        1- informar kate sobre o depósito de fevereiro, a CEF vai creditar a conta
+        OK - 2- depositar parcela de Março
 
-        OK - 2) Essa ordem da barra de menu tem que mudar para: 
-
-            Sobre nós | 
-            Soluções | 
-            Processos. 
-
-        OK - 3) Substituir estratégia por estratégica
-
-        OK - 4) video novo
+    ===
+    Boletim Saude: Aids
+        continuar aplicando conteudo e tabelas
 
 
-    hostgator + github/any repository
-    formulario de contato, usar phpmailer().
+    ===
+    AULA 1 - SEMANA DA PRODUTIVIDADE 4.0
+    METODOLOGIA TRIAD
+
+        1a fase: identidade: eu sei o que é importante
+
+            lista de coisas importante
+                
+                trabalho
+                familia
+                vida esporte
+                vida conhecimento
+                vida equipamentos (kit)
+                liberdade
+                lugares / viagens
+                saude
+                educacao
+                concluir as coisas
+                aprender / aplicar
+                apoiar/sustentar
+
+        2a fase: metas: eu sei para onde estou indo
+
+            micro objetivos
+
+        3a fase: planejamento
+
+            eu planejo aquilo que eu quero na direcao daquilo que é importante
+            
+                ferramenta
+                    pode ser agenda, caderno, app etc qq coisa
+                    importante eh ter uma e funcionar
+
+        4a fase: organizacao e automação
+
+            aqui é onde ganhar 2, 3, 4 horas por dia
+
+            organizacao de espaço
+            organizacao mental
+            automacao tecnologica
+            usar tecnologia que ainda nem sei que existe
+            tudo para se organizar melhor
+
+        5a fase: Execução
+
+            priorizar
+            fazer as coisas acontecerem de verdade
+            saber dizer nao
+            lidar com interrupcoes
+            vencer a preguica
+            combater a procrastinacao
+
+        
+        PLANO DE ACAO PRA FAZER
+
+            fazer o teste da triad
+            escolher uma ferramenta
+            registrar tudo que fizer nessa semana
+                atividades pessoas e profissionais
+                colocar:
+                    nome da atividade
+                    triade da atividade
+
+
+        =====
+        LIVE
+        =====
+
+            execução
+            plano de ação
+
+                tarefas: sao coisas pequenas, no máximo horás p ser realizado. 
+
+            
+            Meta
+                pensa em cenarios
+                    piorzinho
+                    ok
+                    melhorzinho
+
+                    plano de acao
+                    tarefas
+
+
+
+
+
+    ===
+    legalcode
+
+        1) testar emails workspace, gmail
+            ok - tester@legalcode.ai to
+                dev@legalcode.ai
+                betoside@gmail.com
+            ok - betoside@gmail.com to
+                tester@legalcode.ai
+                dev@legalcode.ai
+            ok - dev@legalcode.ai to
+                tester@legalcode.ai
+                betoside@gmail.com
+
+        2) testar formulario de contato
+        
+        3) form usar/atualizar com phpmailer()
+
 
     ===
     B7 web
 
-        Módulo 1: Instruções Iniciais
-        #1: Boas vindas
-        #2: Como funciona a plataforma
-        #3: O que é Frontend, Backend, Mobile?
-        #4: O que vou precisar ter no meu PC?
-        #5: Grupo do Facebook
-        #6: Como pedir suporte?
-        #7: O que são os cursos DO ZERO AO PROFISSIONAL
-
-
-    ===
-    Relatorio Saude: Aids
-        instalar inDesign
-
+        - git
+        bootstrap
 
     ===
     SBJ, 15/03 seg a 21/03 dom
@@ -62,9 +154,9 @@ concluir / work im progress / 6 the number of the work
                 anexar certificado de conclusao da segunda semana
                 iniciar terceira semana
 
+
     ===
     Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
-    
 
         #18: Descontruindo Arrays
         mod3-18-DescontruindoArrays
@@ -110,23 +202,7 @@ concluir / work im progress / 6 the number of the work
         cowbell
         usar a pele de treino
 
-    - ReviewJs-Pizzas | compra de pizza
-    - Loiane Groner - angular, organizar no trelho
-    - Curso Feliz de Html CSS
-
-    
-    ===
-    zeidler
-        2. frase no banner "Rumo ao Topo"
-        4. ajustar uma img
-        - 3. encaixar o video
-        - 1. fazer solicitacoes do Caio 
-
-
-    ===
-    CEF, 
-        1- informar kate sobre o depósito de fevereiro, a CEF vai creditar a conta
-        OK - 2- depositar parcela de Março
+    Curso Feliz de Html CSS, continuar módulo 07
 
 
     rm -rf .git
@@ -161,7 +237,7 @@ geral
     Torneira no quintal
     Câmera da garagem
     luminaria
-    interruptor paralelo corredor
+    - interruptor paralelo corredor
     oculos maior
     heman 
         parte hidraulica
@@ -169,6 +245,10 @@ geral
     quadro semana vidro + caneta
     durex capacete
     bicicletas, limpar, regular
+
+    frases: 
+        de: nada além de potencial
+        para: caminhando
 
 === === === === === === 
 pbcopy < /dev/null
