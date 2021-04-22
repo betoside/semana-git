@@ -1,116 +1,35 @@
-04/04 seg a 11/04 dom
-
 Gu e Ka sempre. Primeiro passo simples.
+
+22/04 QUI a 25/04 DOM
 
 ========
 concluir / work im progress / 6 the number of the work
 ========
 
+    ===
+    B7 web
+
+        php - modulo 06 - orientacao a objetos
+        bootstrap
+        git
+
+    ===
+    quilha, paraf, leash, colete, berma, sunga
+    capa de chuva, oculos
+    ovo + legumes + queijo, batata doce
+
+    ===
+    ok - Boletim Saude: PDF sem facing pages
 
     ===
     zeidler
-        - 5. aplicar texto em "Como investir" 
-        - 6. Diversification
         2. frase no banner "Rumo ao Topo"
         4. ajustar uma img
-        - 3. encaixar o video
-        - 1. fazer solicitacoes do Caio 
 
     ===
     CEF, 
-        1- informar kate sobre o depósito de fevereiro, a CEF vai creditar a conta
-        OK - 2- depositar parcela de Março
-
-    ===
-    Boletim Saude: Aids
-        continuar aplicando conteudo e tabelas
-
-
-    ===
-    AULA 1 - SEMANA DA PRODUTIVIDADE 4.0
-    METODOLOGIA TRIAD
-
-        1a fase: identidade: eu sei o que é importante
-
-            lista de coisas importante
-                
-                trabalho
-                familia
-                vida esporte
-                vida conhecimento
-                vida equipamentos (kit)
-                liberdade
-                lugares / viagens
-                saude
-                educacao
-                concluir as coisas
-                aprender / aplicar
-                apoiar/sustentar
-
-        2a fase: metas: eu sei para onde estou indo
-
-            micro objetivos
-
-        3a fase: planejamento
-
-            eu planejo aquilo que eu quero na direcao daquilo que é importante
-            
-                ferramenta
-                    pode ser agenda, caderno, app etc qq coisa
-                    importante eh ter uma e funcionar
-
-        4a fase: organizacao e automação
-
-            aqui é onde ganhar 2, 3, 4 horas por dia
-
-            organizacao de espaço
-            organizacao mental
-            automacao tecnologica
-            usar tecnologia que ainda nem sei que existe
-            tudo para se organizar melhor
-
-        5a fase: Execução
-
-            priorizar
-            fazer as coisas acontecerem de verdade
-            saber dizer nao
-            lidar com interrupcoes
-            vencer a preguica
-            combater a procrastinacao
-
-        
-        PLANO DE ACAO PRA FAZER
-
-            fazer o teste da triad
-            escolher uma ferramenta
-            registrar tudo que fizer nessa semana
-                atividades pessoas e profissionais
-                colocar:
-                    nome da atividade
-                    triade da atividade
-
-
-        =====
-        LIVE
-        =====
-
-            execução
-            plano de ação
-
-                tarefas: sao coisas pequenas, no máximo horás p ser realizado. 
-
-            
-            Meta
-                pensa em cenarios
-                    piorzinho
-                    ok
-                    melhorzinho
-
-                    plano de acao
-                    tarefas
-
-
-
+        OK - 1- Kate confirmou que o deposito da CEF foi realizado
+        OK - 2 - depósito de abril
 
 
     ===
@@ -131,12 +50,6 @@ concluir / work im progress / 6 the number of the work
         
         3) form usar/atualizar com phpmailer()
 
-
-    ===
-    B7 web
-
-        - git
-        bootstrap
 
     ===
     SBJ, 15/03 seg a 21/03 dom
@@ -190,11 +103,6 @@ concluir / work im progress / 6 the number of the work
 
     
     ===
-    O que sao, o que representam:
-        Equinocios
-        Souslticios
-
-    
     Pratos: Casas André Luiz, amigos, Teodoro, ols
         Chimbal
         Conduçao + pedestal
@@ -202,6 +110,7 @@ concluir / work im progress / 6 the number of the work
         cowbell
         usar a pele de treino
 
+    ===
     Curso Feliz de Html CSS, continuar módulo 07
 
 
@@ -212,17 +121,15 @@ concluir / work im progress / 6 the number of the work
 ===========
 treinamento / continuar
 ===========
+    excel
     udemy geral
     cpanel
-    php
     reCaptcha
     ruby
-    excel
     iterm
     figma
     svg animacao (rogério)
     hospedagem free netlify (aws, heroku, github pages, infinity free)
-    gitpages
 
 =======
 missoes
@@ -237,7 +144,6 @@ geral
     Torneira no quintal
     Câmera da garagem
     luminaria
-    - interruptor paralelo corredor
     oculos maior
     heman 
         parte hidraulica
@@ -262,12 +168,6 @@ manutençao da Estratégia
 768 tablet
 425 iphones geral
 320 (celulares mais antigos)
-
-Montserrat
-Light 300
-Medium 500
-Semi-bold 600
-Bold 700
 
 
 EQUIPAMENTO
@@ -339,8 +239,20 @@ nacionais
 25:41 Soldados
 30:30 Teorema
 
-
 so lonely
 zimbabwe
 natural mistic
 Rodox - Olhos Abertos
+
+
+
+
+
+@everyone 
+*Regras*
+- Não existe obrigatoriedade de ficar postando ou respondendo; 
+- Conteúdo é livre mas é importante RESPEITO; 
+- Pode ser "sem noção" uma ou outra vez mas se isso se tornar rotina e fugir dos temas skate, surf, música ou algo que seja útil será ban sem discussão; 
+- Se algum administrador te der ban, só aceita que não vai ter volta;
+
+🛹🏄🌊🎶🎸🥁☀️🚸❤️
