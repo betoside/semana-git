@@ -1,6 +1,6 @@
 Gu e Ka sempre. Primeiro passo simples.
 
-22/04 QUI a 25/04 DOM
+26/04 SEG a 02/05 DOM
 
 ========
 concluir / work im progress / 6 the number of the work
@@ -9,27 +9,14 @@ concluir / work im progress / 6 the number of the work
     ===
     B7 web
 
-        php - modulo 06 - orientacao a objetos
+        php - modulo 07
         bootstrap
         git
-
-    ===
-    quilha, paraf, leash, colete, berma, sunga
-    capa de chuva, oculos
-    ovo + legumes + queijo, batata doce
-
-    ===
-    ok - Boletim Saude: PDF sem facing pages
 
     ===
     zeidler
         2. frase no banner "Rumo ao Topo"
         4. ajustar uma img
-
-    ===
-    CEF, 
-        OK - 1- Kate confirmou que o deposito da CEF foi realizado
-        OK - 2 - depósito de abril
 
 
     ===
@@ -103,7 +90,7 @@ concluir / work im progress / 6 the number of the work
 
     
     ===
-    Pratos: Casas André Luiz, amigos, Teodoro, ols
+    Bateria
         Chimbal
         Conduçao + pedestal
         Ataque + pedestal
@@ -140,8 +127,6 @@ missoes
 =====
 geral
 =====
-    Fotos da garagem para Rogério (cimento)
-    Torneira no quintal
     Câmera da garagem
     luminaria
     oculos maior
@@ -150,7 +135,9 @@ geral
         lubrificar xt225
     quadro semana vidro + caneta
     durex capacete
-    bicicletas, limpar, regular
+    bicicletas
+        passador marcha para Gu
+        Pirata to the Beach (bagageiro + rack prancha)
 
     frases: 
         de: nada além de potencial
