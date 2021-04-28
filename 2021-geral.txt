@@ -6,6 +6,41 @@ Gu e Ka sempre. Primeiro passo simples.
 concluir / work im progress / 6 the number of the work
 ========
 
+
+    ===
+    ok - internet vivo
+
+        internet vivo
+        Vencimento: 21/04/2021
+        Valor: 94,99
+        Cód de Barra:
+
+        84660000000   (7 zeros) 
+        0 
+        94990082089 
+        3 
+        99327714221 
+        8 
+        26049904399 
+        0
+
+
+        ====
+
+        Vencimento: 21/03/2021
+        Valor: R$ 99,64
+
+        Cód de Barra:
+
+        84660000000    (7 zeros) 
+        0 
+        99640082089 
+        9 
+        99327714221 
+        8 
+        24259863499 
+        4
+
     ===
     B7 web
 
@@ -127,6 +162,7 @@ missoes
 =====
 geral
 =====
+    ok - graxa no portao
     Câmera da garagem
     luminaria
     oculos maior
@@ -137,6 +173,7 @@ geral
     durex capacete
     bicicletas
         passador marcha para Gu
+        parafuso suporte squeeze
         Pirata to the Beach (bagageiro + rack prancha)
 
     frases: 
