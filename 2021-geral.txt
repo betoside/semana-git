@@ -6,45 +6,10 @@ Gu e Ka sempre. Primeiro passo simples.
 concluir / work im progress / 6 the number of the work
 ========
 
-
-    ===
-    ok - internet vivo
-
-        internet vivo
-        Vencimento: 21/04/2021
-        Valor: 94,99
-        Cód de Barra:
-
-        84660000000   (7 zeros) 
-        0 
-        94990082089 
-        3 
-        99327714221 
-        8 
-        26049904399 
-        0
-
-
-        ====
-
-        Vencimento: 21/03/2021
-        Valor: R$ 99,64
-
-        Cód de Barra:
-
-        84660000000    (7 zeros) 
-        0 
-        99640082089 
-        9 
-        99327714221 
-        8 
-        24259863499 
-        4
-
     ===
     B7 web
 
-        php - modulo 07
+        php - modulo 08 - INICIADO
         bootstrap
         git
 
@@ -72,23 +37,22 @@ concluir / work im progress / 6 the number of the work
         
         3) form usar/atualizar com phpmailer()
 
+        4) idiomas EN ES chega na terça 04/05
+
 
     ===
-    SBJ, 15/03 seg a 21/03 dom
-        eletrica, instalador
-            Baixar o html, js, simular local
+    SBJ 29/04 QUI a 02/05 DOM
 
         SBJ (calendario da semana)
             eletrica linha branca
-                missao 1: 
-            curso extra
-                missao 1: 
-            estagio cultural
-                missao 1: 
-                escolher / assistir conteudo da primeira semana
-                anexar certificado de conclusao da segunda semana
-                iniciar terceira semana
+                1: manuais da semana para a próxima segunda-feira dia 03/05
 
+            curso extra
+                -
+
+            estagio cultural
+                1: Baixar modelo de documento padrão
+                
 
     ===
     Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
@@ -162,7 +126,6 @@ missoes
 =====
 geral
 =====
-    ok - graxa no portao
     Câmera da garagem
     luminaria
     oculos maior
@@ -170,7 +133,6 @@ geral
         parte hidraulica
         lubrificar xt225
     quadro semana vidro + caneta
-    durex capacete
     bicicletas
         passador marcha para Gu
         parafuso suporte squeeze
