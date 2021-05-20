@@ -1,23 +1,16 @@
-Gu e Ka sempre. Primeiro passo simples.
+Gu  Ka -_- sempre. Primeiro passo simples.
 
-26/04 SEG a 02/05 DOM
+20/05 QUI a 23/05 DOM >>> Stella Maris
 
 ========
 concluir / work im progress / 6 the number of the work
 ========
 
-    ===
-    B7 web
-
-        php - modulo 08 - INICIADO
-        bootstrap
-        git
-
-    ===
-    zeidler
-        2. frase no banner "Rumo ao Topo"
-        4. ajustar uma img
-
+    news [wsl ingles, youtube, whats]
+    sbj
+    b7web
+    IR
+    stella maris [surf, sk8, local culture everything]
 
     ===
     legalcode
@@ -37,7 +30,13 @@ concluir / work im progress / 6 the number of the work
         
         3) form usar/atualizar com phpmailer()
 
-        4) idiomas EN ES chega na terça 04/05
+
+    ===
+    B7 web
+
+        php - modulo 12 - inicializado
+        bootstrap
+        git
 
 
     ===
@@ -46,6 +45,7 @@ concluir / work im progress / 6 the number of the work
         SBJ (calendario da semana)
             eletrica linha branca
                 1: manuais da semana para a próxima segunda-feira dia 03/05
+                2: assistir a aula do youtube p a reuniao as 14h do dia 04
 
             curso extra
                 -
@@ -53,6 +53,14 @@ concluir / work im progress / 6 the number of the work
             estagio cultural
                 1: Baixar modelo de documento padrão
                 
+
+    ===
+    zeidler
+        stand by
+        verificar melhoria possível c php/mail
+
+
+
 
     ===
     Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
@@ -135,8 +143,6 @@ geral
     quadro semana vidro + caneta
     bicicletas
         passador marcha para Gu
-        parafuso suporte squeeze
-        Pirata to the Beach (bagageiro + rack prancha)
 
     frases: 
         de: nada além de potencial
