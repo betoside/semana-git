@@ -6,11 +6,71 @@ Gu  Ka -_- sempre. Primeiro passo simples.
 concluir / work im progress / 6 the number of the work
 ========
 
-    news [wsl ingles, youtube, whats]
-    sbj
-    b7web
+    --
+    1) news [wsl ingles, youtube, whats]
+
+    --
+    2) sbj
+        aula google
+
+            Processo de carga de gás no refrigerador
+            ==========================================
+            Bomba de vácuo 
+            fazer vácuo (garante a vida útil do produto)
+            pressurizar 
+            colocar líquido refrigerante 
+            microns é a unidade de medida
+
+            abrir ou fechar válvulas para fazer testes e procedimentos
+
+            carga:
+                ter uma balança
+                fluido refrigerante deve ser compativel com o EQUIPAMENTO
+                fechar a parte de alta pressao do manifold
+                abrir o lado da pressao do refrigerador
+                fluido refrigerante entra em alta pressao, faz a troca de
+                temperatura com o ambiente externo 
+                só tem um caminho a ser seguido, é um ciclo que começa no cmpressor 
+                e finaliza no compressor 
+                o compressor para de trabalhar quando o sensor verifica q atingiu a temperatura adequada 
+
+                o fabricante indica a temperatura, esta no manual 
+
+            Curvador de tubos
+
+                atenção ao tamanho da tubulação pq se for pequeno ou menor do que o necessário 
+                ele vai fazer barulho / ruído. tem que deixar pelo menos 3m.
+
+                válvula
+                    válvulas: dispositivos que se inserem numa tubulação para movimentar, parar ou regular o fluxo de um líquido ou gás circulante através
+                    válvula de segurança
+
+                compressor 
+                    na hora da manutençao 
+
+        
+        organizar conteúdo / vídeos da aula anteriores 
+
+
+    --
+    3) b7web
+
+        #22: Perfil (parte 1) - Rota
+        #23: Perfil (parte 2) - Menu
+        #24: Perfil (parte 3) - Conteúdo Base
+        #25: Perfil (parte 4) - Conteúdo Específico
+        #26: Perfil (parte 5) - Conteúdo Específico
+        #27: Perfil (parte 6) - Feed
+        #28: Perfil (parte 7) - Feed
+
+
+    --
     IR
+
+    --
     stella maris [surf, sk8, local culture everything]
+
+
 
     ===
     legalcode
@@ -34,7 +94,6 @@ concluir / work im progress / 6 the number of the work
     ===
     B7 web
 
-        php - modulo 12 - inicializado
         bootstrap
         git
 
