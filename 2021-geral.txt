@@ -11,8 +11,11 @@ concluir / work im progress / 6 the number of the work
     B7 web
 
         php
-            #27: Perfil (parte 6) - Feed
-            #28: Perfil (parte 7) - Feed
+            ok #27: Perfil (parte 6) - Feed
+            ok #28: Perfil (parte 7) - Feed
+
+            #30: Perfil (parte 8) - Follow - 10h23 - 16h40 -- 00h00 :: 
+            #31: Perfil (parte 9) - Follow - 00h00 - 00h00 -- 00h00 :: 
 
         bootstrap
         git
