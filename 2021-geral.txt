@@ -55,14 +55,19 @@ concluir / work im progress / 6 the number of the work
     --
     3) b7web
 
-        #22: Perfil (parte 1) - Rota
-        #23: Perfil (parte 2) - Menu
-        #24: Perfil (parte 3) - Conteúdo Base
-        #25: Perfil (parte 4) - Conteúdo Específico
-        #26: Perfil (parte 5) - Conteúdo Específico
-        #27: Perfil (parte 6) - Feed
-        #28: Perfil (parte 7) - Feed
+        ok #22: Perfil (parte 1) - Rota 9:23 [00:00 - 00:00]
+        #23: Perfil (parte 2) - Menu 10:10 [15:45 - 16:22]
+        #24: Perfil (parte 3) - Conteúdo Base 11:04 [16:22 - 16:58]
+        #25: Perfil (parte 4) - Conteúdo Específico 15:06 [17:00 - 18:07]
+        #26: Perfil (parte 5) - Conteúdo Específico 15:33 [18:07 - 18:30]
+        #27: Perfil (parte 6) - Feed 12:21 [23:25 - 00:11]
+        #28: Perfil (parte 7) - Feed 6:16 [00:11 - 01:34]
 
+            01:34 - 02:50
+
+        
+        Rua Ligia Borja, 524
+        Bahia, Stella Maris
 
     --
     IR
