@@ -14,8 +14,11 @@ concluir / work im progress / 6 the number of the work
             ok #27: Perfil (parte 6) - Feed
             ok #28: Perfil (parte 7) - Feed
 
-            #30: Perfil (parte 8) - Follow - 10h23 - 16h40 -- 00h00 :: 
-            #31: Perfil (parte 9) - Follow - 00h00 - 00h00 -- 00h00 :: 
+            ok #30: Perfil (parte 8) - Follow - 10h23 - 16h40 -- 17h40 :: 01h00
+            ok #31: Perfil (parte 9) - Follow - 13h10 - 17h40 -- 00h41 :: 
+
+            #32: Amigos (1/2)
+            #33: Amigos (2/2)
 
         bootstrap
         git
