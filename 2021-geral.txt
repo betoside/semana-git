@@ -6,19 +6,34 @@ Gu  Ka -_- sempre. Primeiro passo simples.
 concluir / work im progress / 6 the number of the work
 ========
 
+    ===
+    SAB / DOM
+
+        sab 
+            litoral norte
+                ok - massarandupio
+                embassaí
+                ok - praia do forte, lojas
+                ok - restaurante, sombra da mangueira, em Diogo
+                lagoa de jauara, no caminho
+
+            mercado modelo
+
+        dom
+
 
     ===
     B7 web
 
         php
-            ok #27: Perfil (parte 6) - Feed
-            ok #28: Perfil (parte 7) - Feed
-
-            ok #30: Perfil (parte 8) - Follow - 10h23 - 16h40 -- 17h40 :: 01h00
-            ok #31: Perfil (parte 9) - Follow - 13h10 - 17h40 -- 00h41 :: 
-
-            ok #32: Amigos (1/2) : 00h43 - 00h56
-            ok #33: Amigos (2/2) : 00h56 - 01h27
+            ok - #34: Fotos: 01:00/01:15
+            ok - #35: Partial do Perfil: 01:15/01:33
+            ok - #36: Busca: 01:03/01:30 - 2:16/2:26 - 9:46/10:00
+            ok - #37: Configurações - 10:00
+                route
+                view
+                controller
+            ok - #38: Configurações: Troca de Avatar/Capa: 11:08/11:
 
         bootstrap
         git
@@ -27,12 +42,40 @@ concluir / work im progress / 6 the number of the work
     --
     IR
         PJ
-            procuracao
-            cartorio
-            aluguel de carro
+            ok - procuracao
+            ok - cartorio
+            ok - aluguel de carro
 
         PF 
+            https://www.youtube.com/watch?v=QmO-cUiT6Z0
             declarar isento
+
+            ETAPA 1: 
+            visão geral sobre o programa do IR
+
+            ETAPA 2: 
+            como resolver situações relevantes que podem ter acontecido 
+            com você ao longo de 2020
+
+            ETAPA 3: 
+            Como lançar os seus gastos dedutíveis
+
+
+            ETAPA 4: 
+            Como declarar suas aplicações e rendimentos com investimentos
+
+
+            Assinatura do plano FIRE 
+
+                01 Ativos para construção de patrimônio
+                02 Ativos para construção de renda
+                03 Ativos para proteção de patrimônio
+                    
+                    -> Pagamentos regulares, renda extra caindo na sua conta
+                    -> Oportunidades com crescimento exponencial, para
+                       colocar pouco capital em busca de enormes retornos
+                    -> E ativos defensivos, que irão controlar o risco da nossa trajetória
+
 
 
 
@@ -101,6 +144,10 @@ concluir / work im progress / 6 the number of the work
         Cauê, Jr (onda hamburgão)
 
         Sk8: gabriel
+
+        Adauton, surfer
+        Nando, surfer 6'2
+        Polo, Muai Thai
 
 
     ===
