@@ -1,6 +1,6 @@
-Gu  Ka -_- sempre. Primeiro passo simples.
+Gu  Ka -_-                                                 Primeiro passo simples.
 
-20/05 QUI a 23/05 DOM >>> Stella Maris
+02/06 QUA a 06/06 DOM >>> Stella Maris
 
 ========
 concluir / work im progress / 6 the number of the work
@@ -9,120 +9,62 @@ concluir / work im progress / 6 the number of the work
     ===
     SAB / DOM
 
+        qua
+            ===
+            B7 web
+
+                php
+                    - #39: Like (1/3)
+                    - #40: Like (2/3)
+                    - #41: Like (3/3)
+
+                ===
+                Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
+
+                    #18: Descontruindo Arrays
+                    mod3-18-DescontruindoArrays
+
+                    #19: Arrow Functions
+                    mod3-19-ArrowFunctions
+
+                    #20: Operador Spread
+                    mod3-20-Operador-Spread
+
+                    #21: Operador Rest
+                    mod3-21-Operador-Rest
+
+                    #22: Includes Repeat
+                    mod3-22-Includes-Repeat
+
+                    #23: Objeto: Key, Values e Entries
+                    mod3-19-ArrowFunctions
+
+                    #24: String, padStart, padEnd
+                    mod3-19-ArrowFunctions
+
+                    #25: Promise
+                    mod3-19-ArrowFunctions
+
+                    #26: Ajax/Fetch
+                    mod3-19-ArrowFunctions
+
+                    #27: Async/Await
+                    mod3-19-ArrowFunctions
+
+
+                bootstrap
+                git
+
+            dynamic
+            adauto
+            shopping (carregador)
+        qui 
+        sex 
         sab 
             litoral norte
-                ok - massarandupio
                 embassaí
-                ok - praia do forte, lojas
-                ok - restaurante, sombra da mangueira, em Diogo
                 lagoa de jauara, no caminho
-
-            mercado modelo
-
         dom
-
-
-    ===
-    B7 web
-
-        php
-            ok - #34: Fotos: 01:00/01:15
-            ok - #35: Partial do Perfil: 01:15/01:33
-            ok - #36: Busca: 01:03/01:30 - 2:16/2:26 - 9:46/10:00
-            ok - #37: Configurações - 10:00
-                route
-                view
-                controller
-            ok - #38: Configurações: Troca de Avatar/Capa: 11:08/11:
-
-        bootstrap
-        git
-
-
-    --
-    IR
-        PJ
-            ok - procuracao
-            ok - cartorio
-            ok - aluguel de carro
-
-        PF 
-            https://www.youtube.com/watch?v=QmO-cUiT6Z0
-            declarar isento
-
-            ETAPA 1: 
-            visão geral sobre o programa do IR
-
-            ETAPA 2: 
-            como resolver situações relevantes que podem ter acontecido 
-            com você ao longo de 2020
-
-            ETAPA 3: 
-            Como lançar os seus gastos dedutíveis
-
-
-            ETAPA 4: 
-            Como declarar suas aplicações e rendimentos com investimentos
-
-
-            Assinatura do plano FIRE 
-
-                01 Ativos para construção de patrimônio
-                02 Ativos para construção de renda
-                03 Ativos para proteção de patrimônio
-                    
-                    -> Pagamentos regulares, renda extra caindo na sua conta
-                    -> Oportunidades com crescimento exponencial, para
-                       colocar pouco capital em busca de enormes retornos
-                    -> E ativos defensivos, que irão controlar o risco da nossa trajetória
-
-
-
-
-
-
-    --
-    2) sbj
-        aula google
-
-            Processo de carga de gás no refrigerador
-            ==========================================
-            Bomba de vácuo 
-            fazer vácuo (garante a vida útil do produto)
-            pressurizar 
-            colocar líquido refrigerante 
-            microns é a unidade de medida
-
-            abrir ou fechar válvulas para fazer testes e procedimentos
-
-            carga:
-                ter uma balança
-                fluido refrigerante deve ser compativel com o EQUIPAMENTO
-                fechar a parte de alta pressao do manifold
-                abrir o lado da pressao do refrigerador
-                fluido refrigerante entra em alta pressao, faz a troca de
-                temperatura com o ambiente externo 
-                só tem um caminho a ser seguido, é um ciclo que começa no cmpressor 
-                e finaliza no compressor 
-                o compressor para de trabalhar quando o sensor verifica q atingiu a temperatura adequada 
-
-                o fabricante indica a temperatura, esta no manual 
-
-            Curvador de tubos
-
-                atenção ao tamanho da tubulação pq se for pequeno ou menor do que o necessário 
-                ele vai fazer barulho / ruído. tem que deixar pelo menos 3m.
-
-                válvula
-                    válvulas: dispositivos que se inserem numa tubulação para movimentar, parar ou regular o fluxo de um líquido ou gás circulante através
-                    válvula de segurança
-
-                compressor 
-                    na hora da manutençao 
-
-        
-        organizar conteúdo / vídeos da aula anteriores 
-
 
     --
         Rua Ligia Borja, 524
@@ -133,21 +75,16 @@ concluir / work im progress / 6 the number of the work
     ok - stella maris [surf, sk8, local culture everything]
 
         Del, músico compositor
-
         Tom e Marcinha
-
         Nailson
-
         Adre Bebê
-        Fotógrafo
-
+        Adailton Fotógrafo
         Cauê, Jr (onda hamburgão)
-
         Sk8: gabriel
-
         Adauton, surfer
         Nando, surfer 6'2
         Polo, Muai Thai
+        Paulo Sérgio Guia
 
 
     ===
@@ -170,7 +107,7 @@ concluir / work im progress / 6 the number of the work
 
 
     ===
-    SBJ 29/04 QUI a 02/05 DOM
+    SBJ 02/06 QUI a 06/06 DOM
 
         SBJ (calendario da semana)
             eletrica linha branca
@@ -189,42 +126,6 @@ concluir / work im progress / 6 the number of the work
         stand by
         verificar melhoria possível c php/mail
 
-
-
-
-    ===
-    Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
-
-        #18: Descontruindo Arrays
-        mod3-18-DescontruindoArrays
-
-        #19: Arrow Functions
-        mod3-19-ArrowFunctions
-
-        #20: Operador Spread
-        mod3-20-Operador-Spread
-
-        #21: Operador Rest
-        mod3-21-Operador-Rest
-
-        #22: Includes Repeat
-        mod3-22-Includes-Repeat
-
-        #23: Objeto: Key, Values e Entries
-        mod3-19-ArrowFunctions
-
-        #24: String, padStart, padEnd
-        mod3-19-ArrowFunctions
-
-        #25: Promise
-        mod3-19-ArrowFunctions
-
-        #26: Ajax/Fetch
-        mod3-19-ArrowFunctions
-
-        #27: Async/Await
-        mod3-19-ArrowFunctions
-
     
     ===
     Bateria
@@ -236,7 +137,6 @@ concluir / work im progress / 6 the number of the work
 
     ===
     Curso Feliz de Html CSS, continuar módulo 07
-
 
     rm -rf .git
     deletar arquivos ocultos
