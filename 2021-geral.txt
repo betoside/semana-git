@@ -1,4 +1,4 @@
-Gu  Ka -_-                                                 Primeiro passo simples.
+Gu  Ka  -_-                                                 Primeiro passo simples.
 
 02/06 QUA a 06/06 DOM >>> Stella Maris
 
@@ -7,16 +7,16 @@ concluir / work im progress / 6 the number of the work
 ========
 
     ===
-    SAB / DOM
+    Stella Maris 
 
         qua
             ===
             B7 web
 
                 php
-                    - #39: Like (1/3)
-                    - #40: Like (2/3)
-                    - #41: Like (3/3)
+                    ok - #39: Like (1/3)   15:10/17:38
+                    ok - #40: Like (2/3)   17:38/01:11
+                    ok - #41: Like (3/3)   01:11/01:47
 
                 ===
                 Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
