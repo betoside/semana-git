@@ -1,97 +1,71 @@
 Gu  Ka  -_-                                                 Primeiro passo simples.
 
-07/06 TER a 13/06 DOM >>> SP
+07/06 SEG a 13/06 DOM >>> SP
 
 ========
 concluir / work im progress / 6 the number of the work
 ========
 
+    Verificar o breadcrumb das profissoes:
+    https://www.digitalhouse.com/br/acoes/carreiras-digitais?utm_source=Icommarketing&utm_medium=email&utm_content=%5b%5bCONFIGURA%c3%87%c3%83O%5d%5d&utm_campaign=Icommarketing+-+%5b%5bCAMPANHA%5d%5d+-+280421_carreirasdigitais_ultimassemanas-2
+
     ===
-    Stella Maris 
+    B7 web
 
-        qua 02/06
-            ok - shopping (carregador)
+        php
 
-        qui 
-            ok - adauto
-        sex 
-        sab 
-            ok - litoral norte
-                ok - quiosque da mary
-                ok - praia do forte
-                ok - Garcia D'ávila
-                ok - Baleia jubarte
+            mod13-Projeto-OO
 
-        dom
-            ===
-            B7 web
+            ok - #10: Página de Cadastro (1/3)           11:37/11:48
+                tela com campos form, links, label button
+                IMask, birthdate
+            ok - #11: Página de Cadastro (2/3)           11:48/12:07
+                validacoes e verificacoes
+            ok - #12: Página de Cadastro (3/3)           12:07/18:09
+                ! passoword : um "o" no nome do campo impedindo de gravar no bd
 
-                php
+            #13: Página de Logout + Bug no Login
+            #14: Refatorando o Auth
 
-                    mod13-Projeto-OO
+        ===
+        JS
+        Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
 
-                    ok - #1: Explicando o projeto   /19:03
-                        baixar material
-                    ok - #2: Idealização do Banco de Dados (1/2) 19:03/19
-                    ok - #3: Idealização do Banco de Dados (2/2) /20:51
-                    ok - #4: Criação do banco de dados 20:51/21:05
+            #18: Descontruindo Arrays
+            mod3-18-DescontruindoArrays
 
-                    ok - #5: Criando a base                      21:05/22:11
-                    ok - #6: Detectando Login (1/2)              22:11/22
-                    ok - #7: Detectando Login (2/2)              /23:00
-                    ok - #8: Página de Login (1/2)               /24:48
-                    ok - #9: Página de Login (2/2)               00:48/01:31
-                    
-                    #10: Página de Cadastro (1/3)           
-                    #11: Página de Cadastro (2/3)
-                    #12: Página de Cadastro (3/3)
-                    #13: Página de Logout + Bug no Login
-                    #14: Refatorando o Auth
+            #19: Arrow Functions
+            mod3-19-ArrowFunctions
 
-                ===
-                JS
-                Módulo 3: Manipulações, Arrow, Ajax, etc (27 aulas)
+            #20: Operador Spread
+            mod3-20-Operador-Spread
 
-                    #18: Descontruindo Arrays
-                    mod3-18-DescontruindoArrays
+            #21: Operador Rest
+            mod3-21-Operador-Rest
 
-                    #19: Arrow Functions
-                    mod3-19-ArrowFunctions
+            #22: Includes Repeat
+            mod3-22-Includes-Repeat
 
-                    #20: Operador Spread
-                    mod3-20-Operador-Spread
+            #23: Objeto: Key, Values e Entries
+            mod3-19-ArrowFunctions
 
-                    #21: Operador Rest
-                    mod3-21-Operador-Rest
+            #24: String, padStart, padEnd
+            mod3-19-ArrowFunctions
 
-                    #22: Includes Repeat
-                    mod3-22-Includes-Repeat
+            #25: Promise
+            mod3-19-ArrowFunctions
 
-                    #23: Objeto: Key, Values e Entries
-                    mod3-19-ArrowFunctions
+            #26: Ajax/Fetch
+            mod3-19-ArrowFunctions
 
-                    #24: String, padStart, padEnd
-                    mod3-19-ArrowFunctions
+            #27: Async/Await
+            mod3-19-ArrowFunctions
 
-                    #25: Promise
-                    mod3-19-ArrowFunctions
-
-                    #26: Ajax/Fetch
-                    mod3-19-ArrowFunctions
-
-                    #27: Async/Await
-                    mod3-19-ArrowFunctions
-
-                bootstrap
-                git
+        bootstrap
+        git
 
 
-            sbj
-            ok - polo adauto
-
-    --
-        Rua Ligia Borja, 524
-        Bahia, Stella Maris
+    sbj
 
 
     --
@@ -145,7 +119,7 @@ concluir / work im progress / 6 the number of the work
 
 
     ===
-    SBJ 02/06 QUI a 06/06 DOM
+    SBJ 08/06 TER a 13/06 DOM >>> Colocar em dia
 
         SBJ (calendario da semana)
             eletrica linha branca
@@ -161,7 +135,6 @@ concluir / work im progress / 6 the number of the work
 
     ===
     zeidler
-        stand by
         verificar melhoria possível c php/mail
 
     
