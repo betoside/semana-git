@@ -6,8 +6,13 @@ Gu  Ka  -_-                                                 Primeiro passo simpl
 concluir / work im progress / 6 the number of the work
 ========
 
+    ===
+    Finted
+
+
+    ===
     Verificar o breadcrumb das profissoes:
-    https://www.digitalhouse.com/br/acoes/carreiras-digitais?utm_source=Icommarketing&utm_medium=email&utm_content=%5b%5bCONFIGURA%c3%87%c3%83O%5d%5d&utm_campaign=Icommarketing+-+%5b%5bCAMPANHA%5d%5d+-+280421_carreirasdigitais_ultimassemanas-2
+        https://www.digitalhouse.com/br/acoes/carreiras-digitais?utm_source=Icommarketing&utm_medium=email&utm_content=%5b%5bCONFIGURA%c3%87%c3%83O%5d%5d&utm_campaign=Icommarketing+-+%5b%5bCAMPANHA%5d%5d+-+280421_carreirasdigitais_ultimassemanas-2
 
     ===
     B7 web
@@ -16,16 +21,9 @@ concluir / work im progress / 6 the number of the work
 
             mod13-Projeto-OO
 
-            ok - #10: Página de Cadastro (1/3)           11:37/11:48
-                tela com campos form, links, label button
-                IMask, birthdate
-            ok - #11: Página de Cadastro (2/3)           11:48/12:07
-                validacoes e verificacoes
-            ok - #12: Página de Cadastro (3/3)           12:07/18:09
-                ! passoword : um "o" no nome do campo impedindo de gravar no bd
-
-            #13: Página de Logout + Bug no Login
-            #14: Refatorando o Auth
+                ok - #13: Página de Logout + Bug no Login    00:16/00:40
+                
+                #14: Refatorando o Auth                 00:40/01:25
 
         ===
         JS
