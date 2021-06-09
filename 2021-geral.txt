@@ -6,6 +6,17 @@ Gu  Ka  -_-                                                 Primeiro passo simpl
 concluir / work im progress / 6 the number of the work
 ========
 
+    netflix
+
+        the defiant ones
+        "history of hip-hop"
+        Dr Dre
+
+        Niggaz
+        sobre o assassinato do tupac e do big notorious
+
+        Na amazon, a historia do Elvis Presley
+
     ===
     Verificar o breadcrumb das profissoes:
         https://www.digitalhouse.com/br/acoes/carreiras-digitais?utm_source=Icommarketing&utm_medium=email&utm_content=%5b%5bCONFIGURA%c3%87%c3%83O%5d%5d&utm_campaign=Icommarketing+-+%5b%5bCAMPANHA%5d%5d+-+280421_carreirasdigitais_ultimassemanas-2
@@ -24,12 +35,13 @@ concluir / work im progress / 6 the number of the work
                 ok - #16: Estruturando Template (2/2)   /11:02
                 ok - #17: Corrigindo erro de clique     /11:10
                 ok - #18: Página Home (1/5)             /11:21
-                #19: Feed Editor (1/2)
-                #20: Feed Editor (2/2)
-                #21: Página Home (2/5)
-                #22: Página Home (3/5)
-                #23: Página Home (4/5)
-                #24: Página Home (5/5)
+                ok - #19: Feed Editor (1/2)
+                ok - #20: Feed Editor (2/2)
+
+                ok - #21: Página Home (2/5)
+                ok - #22: Página Home (3/5) +
+                ok - #23: Página Home (4/5) +
+                ok - #24: Página Home (5/5)
 
         ===
         JS
