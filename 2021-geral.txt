@@ -7,10 +7,6 @@ concluir / work im progress / 6 the number of the work
 ========
 
     ===
-    Finted
-
-
-    ===
     Verificar o breadcrumb das profissoes:
         https://www.digitalhouse.com/br/acoes/carreiras-digitais?utm_source=Icommarketing&utm_medium=email&utm_content=%5b%5bCONFIGURA%c3%87%c3%83O%5d%5d&utm_campaign=Icommarketing+-+%5b%5bCAMPANHA%5d%5d+-+280421_carreirasdigitais_ultimassemanas-2
 
@@ -21,9 +17,19 @@ concluir / work im progress / 6 the number of the work
 
             mod13-Projeto-OO
 
-                ok - #13: Página de Logout + Bug no Login    00:16/00:40
-                
-                #14: Refatorando o Auth                 00:40/01:25
+                ok - #14: Refatorando o Auth                 01:25/01:36
+                ok - #15: Estruturando Template (1/2)        01:36/
+                    comecar a fazer a pagina home
+
+                ok - #16: Estruturando Template (2/2)   /11:02
+                ok - #17: Corrigindo erro de clique     /11:10
+                ok - #18: Página Home (1/5)             /11:21
+                #19: Feed Editor (1/2)
+                #20: Feed Editor (2/2)
+                #21: Página Home (2/5)
+                #22: Página Home (3/5)
+                #23: Página Home (4/5)
+                #24: Página Home (5/5)
 
         ===
         JS
