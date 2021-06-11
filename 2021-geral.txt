@@ -6,49 +6,25 @@ Gu  Ka  -_-                                                 Primeiro passo simpl
 concluir / work im progress / 6 the number of the work
 ========
 
-    === 10/06 qui
-    Review before NOXI
+    === 11/06 Sexta
+    Buscar Gu
+    Combinar com Kaiane
 
-        bootstrap
-    
-            4-Grid-media
-            ok - #4: Grid - Introdução
-            ok - #5: Grid - Coluna com largura e nova linha
-            ok - #6: Grid - Ordenando Colunas
-            ok - #7: Grid - JustifyContent e AlignItems
-            ok - #8: Media Component
+    Review before NOXI
 
         html 5
 
-            Módulo 5: Responsividade [14 aulas]
-            #1: Mobile First
-            #2: Layout adaptativo vs layout responsivo
-            #3: Viewport
-            #4: Imagens Responsivas: picture e source
-            #5: Imagens Responsivas: Propriedade Object-fit
-            #6: Css @media: Como funciona 1
-            #7: Css @media: Como funciona 2
-            #8: Orientation no @media
-            #9: Aspect-ratio no @media
-            #10: Função var
-            #11: Função var em media query
-            #12: Hack CSS: Altura relativa a largura
-            #13: Função min e max
-            #14: Função calc
+            -> Módulo 5: Responsividade [14 aulas]
+            -> Módulo 7: Flexbox na prática [11 aulas]
+                Mod7-Flexbox
 
-            Módulo 7: Flexbox na prática[11 aulas]
             Módulo 9: Projeto: Devsla (Clone do Tesla)[7 aulas]
             Módulo 10: Projeto Awax [27 aulas]
-
 
     ===
     B7 web
 
         bootstrap
-
-                #28: Exercício: One-page Layout
-                #29: Projeto: Filmes em Cartaz (1/2)
-                #30: Projeto: Filmes em Cartaz (2/2)
             
             #31: Exercício: Quiz
             #32: Exercício: Buscador de GIF
@@ -318,9 +294,6 @@ so lonely
 zimbabwe
 natural mistic
 Rodox - Olhos Abertos
-
-
-
 
 
 @everyone 
