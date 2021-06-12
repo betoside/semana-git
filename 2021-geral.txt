@@ -6,15 +6,15 @@ Gu  Ka  -_-                                                 Primeiro passo simpl
 concluir / work im progress / 6 the number of the work
 ========
 
-    === 11/06 Sexta
-    Buscar Gu
-    Combinar com Kaiane
+    === 12/06 Sabado
+
 
     Review before NOXI
 
         html 5
 
             -> Módulo 5: Responsividade [14 aulas]
+
             -> Módulo 7: Flexbox na prática [11 aulas]
                 Mod7-Flexbox
 
