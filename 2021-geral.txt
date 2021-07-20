@@ -1,83 +1,60 @@
 Gu  Ka  -_-                                                 Primeiro passo simples.
 
-07/06 SEG a 13/06 DOM >>> SP
+19/07 SEG a 25/07 DOM >>> SP
 
 ========
 concluir / work im progress / 6 the number of the work
 ========
 
-    === 12/06 Sabado
+    === 20/07 TERÇA
+
+        NOXI
+            Bom dia mano..blz...
+
+            SERVICOS
+
+                ...segue as imagens dos 5 primeiros SERVIÇOS 
+                (o 6º como é de terceiro estou esperando o mesmo me responder agora se está ok)
+
+                ...segue também as imagens da home.
+
+                flushing-com-oleo
+                hidrojateamento
+                limpeza-com-pig
+                limpeza-quimica
+                residuos-de-limpeza
+
+                Flushing com óleo
+                Hidrojateamento
+                Limpeza com PIG
+                Limpeza Química
+                Resíduos de Limpeza de tubulações
 
 
-    Review before NOXI
 
-        html 5
+            HOME 
+                Detalhe, agora que percebi, 
+                o SEGUNDO SLIDE está faltando as 
+                - fotos dos produtos 
+                - e a legenda 
+                (veja no psd original da home, mas segue aqui o a imagem referente ok).
 
-            -> Módulo 5: Responsividade [14 aulas]
 
-            -> Módulo 7: Flexbox na prática [11 aulas]
-                Mod7-Flexbox
+                Já vou te enviar o restante das imagens com os textos ok.
+                Te ligo daqui a pouco...valeuu
 
-            Módulo 9: Projeto: Devsla (Clone do Tesla)[7 aulas]
-            Módulo 10: Projeto Awax [27 aulas]
+
+
+            ------------------------
+            Tik Tok
+            SENAI
+            PHP
+
 
     ===
     B7 web
 
-        bootstrap
-            
-            #31: Exercício: Quiz
-            #32: Exercício: Buscador de GIF
-
-        git
-
-        php
-
-            #Módulo 13: Projeto Prático em OO (Devsbook)
-
-            25: Perfil (1/6)
-            26: Perfil (2/6)
-            27: Perfil (3/6)
-            28: Perfil (4/6)
-            29: Perfil (5/6)
-            30: Perfil (6/6)
-            31: Corrigindo erro da HOME
-            32: Página amigos
-            33: Página Fotos
-            34: Busca (1/2)
-            35: Busca (2/2)
-            36: Configurações (1/6)
-            37: Configurações (2/6)
-            38: Configurações (3/6)
-            39: Configurações (4/6)
-            40: Configurações (5/6)
-            41: Configurações (6/6)
-            42: Função Like (1/4)
-            43: Função Like (2/4)
-            44: Função Like (3/4)
-            45: Função Like (4/4)
-            46: Função Comentário (1/3)
-            47: Função Comentário (2/3)
-            48: Função Comentário (3/3)
-            49: Seguir (1/2)
-            50: Seguir (2/2)
-            51: Upload de foto (1/4)
-            52: Upload de foto (2/4)
-            53: Upload de foto (3/4)
-            54: Upload de foto (4/4)
-            55: Detalhes do Feed (1/2)
-            56: Detalhes do Feed (2/2)
-            57: Deletando tudo dos posts
-            58: Paginação da Home (1/2)
-            59: Paginação da Home (2/2)
-            60: Paginação do Perfil
-            61: Refatorando Paginação
-            62: Bug do Like no Perfil
-            63: Bug do Banner
-
-
-    ===
-    sbj
+        https://b7web.com.br/projetosparapraticar.txt
 
 
     ===
@@ -114,6 +91,7 @@ concluir / work im progress / 6 the number of the work
             Adriano, 20 anos, currículo, contratado para área de tecnologia
             Adriano explicando a figueira
             Clodomiro escritor revisor
+        Mulher negra poetisa
 
 
 
@@ -135,27 +113,7 @@ concluir / work im progress / 6 the number of the work
         
         3) form usar/atualizar com phpmailer()
 
-
-    ===
-    SBJ 08/06 TER a 13/06 DOM >>> Colocar em dia
-
-        SBJ (calendario da semana)
-            eletrica linha branca
-                1: manuais da semana para a próxima segunda-feira dia 03/05
-                2: assistir a aula do youtube p a reuniao as 14h do dia 04
-
-            curso extra
-                -
-
-            estagio cultural
-                1: Baixar modelo de documento padrão
-                
-
-    ===
-    zeidler
-        verificar melhoria possível c php/mail
-
-    
+   
     ===
     Bateria
         Chimbal
@@ -176,7 +134,6 @@ treinamento / continuar
 ===========
     excel
     udemy geral
-    cpanel
     reCaptcha
     ruby
     iterm
@@ -205,7 +162,7 @@ geral
 
     frases: 
         de: nada além de potencial
-        para: caminhando
+        para: caminhando, realizando, construindo
 
 === === === === === === 
 pbcopy < /dev/null
