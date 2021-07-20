@@ -8,7 +8,8 @@ concluir / work im progress / 6 the number of the work
 
     === 20/07 TERÇA
 
-        NOXI
+        [ok] NOXI
+
             Bom dia mano..blz...
 
             SERVICOS
@@ -45,10 +46,22 @@ concluir / work im progress / 6 the number of the work
 
 
 
-            ------------------------
-            Tik Tok
-            SENAI
-            PHP
+        ------------------------
+        Tik Tok
+
+            img = arquivo aprovado
+
+            Ma, tem alguns ainda faltando, sinalizei em amarelo
+            Tá na aba GC´s
+            Eu coloquei a data de participação cada um, 
+            pois as gravações começam nesta 5a, dia 22, esses são os mais urgentes, tá
+
+
+
+        [ok] SENAI. docs enviados
+
+        
+        PHP
 
 
     ===
