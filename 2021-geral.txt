@@ -8,44 +8,6 @@ concluir / work im progress / 6 the number of the work
 
     === 20/07 TERÇA
 
-        [ok] NOXI
-
-            Bom dia mano..blz...
-
-            SERVICOS
-
-                ...segue as imagens dos 5 primeiros SERVIÇOS 
-                (o 6º como é de terceiro estou esperando o mesmo me responder agora se está ok)
-
-                ...segue também as imagens da home.
-
-                flushing-com-oleo
-                hidrojateamento
-                limpeza-com-pig
-                limpeza-quimica
-                residuos-de-limpeza
-
-                Flushing com óleo
-                Hidrojateamento
-                Limpeza com PIG
-                Limpeza Química
-                Resíduos de Limpeza de tubulações
-
-
-
-            HOME 
-                Detalhe, agora que percebi, 
-                o SEGUNDO SLIDE está faltando as 
-                - fotos dos produtos 
-                - e a legenda 
-                (veja no psd original da home, mas segue aqui o a imagem referente ok).
-
-
-                Já vou te enviar o restante das imagens com os textos ok.
-                Te ligo daqui a pouco...valeuu
-
-
-
         ------------------------
         Tik Tok
 
@@ -56,12 +18,57 @@ concluir / work im progress / 6 the number of the work
             Eu coloquei a data de participação cada um, 
             pois as gravações começam nesta 5a, dia 22, esses são os mais urgentes, tá
 
+            psd 03 arquivo final 
+
+             tem que colocar o CG que esta no arquivo 01
+                - nome
+                - cargo
+
+            link google drive sao os nomes e os cargos
 
 
-        [ok] SENAI. docs enviados
 
-        
+                22/07
+
+
+                    1)
+                    BECCA SAWYER
+                    Global Head of SMB
+
+
+                    2)
+                    ANNYA 
+                    Fundadora e CEO da NaturalAnnie Essentials
+
+
+                    3)
+                    BRAD E BRYAN
+                    Co-fundadores da Two Blind Brothers
+
+
+                    4)
+                    ANNELIZE CONTI
+                    Brand Strategist
+
+
+                    5)
+                    LILIAN OTUKA
+                    Market Research & Insights Lead
+
+
+                    6)
+                    DAVE BYRNE
+                    Brand Safety & Industry Relations
+
+
+
+
+
+
+        ------------------------
         PHP
+
+
 
 
     ===
@@ -73,38 +80,6 @@ concluir / work im progress / 6 the number of the work
     ===
     Verificar o breadcrumb das profissoes:
         https://www.digitalhouse.com/br/acoes/carreiras-digitais?utm_source=Icommarketing&utm_medium=email&utm_content=%5b%5bCONFIGURA%c3%87%c3%83O%5d%5d&utm_campaign=Icommarketing+-+%5b%5bCAMPANHA%5d%5d+-+280421_carreirasdigitais_ultimassemanas-2
-
-
-
-    --
-    ok - stella maris [surf, sk8, local culture everything]
-
-        Del, músico compositor
-        Tom e Marcinha
-        Nailson, violeiro da igreja de sao francisco
-        a menina da arte e a dica do por do sol
-        os musicos do bar, bateria e voz com violao
-        André Bebê, villas do atlantico
-        Adailton Fotógrafo (Dynamic)
-        Cauê, Jr (onda hamburgão)
-        Sk8: Gabriel
-        Adauto, surfer
-        Nando, surfer 6'2
-        Polo, Muai Thai
-        Paulo Sérgio Guia
-        Gabi Rodrigao
-            vazamento de água, inundou apto
-            igreja da vitória
-            árvore bonsai
-            Ignácio, artísta plástico
-            tomás + gilr Bela
-            pizzas pequenas, breja "mofada"
-
-        Castelo Garcia D'ávila
-            Adriano, 20 anos, currículo, contratado para área de tecnologia
-            Adriano explicando a figueira
-            Clodomiro escritor revisor
-        Mulher negra poetisa
 
 
 
